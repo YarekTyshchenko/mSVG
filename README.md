@@ -13,5 +13,5 @@ This project is licensed under GNU Lesser General Public License v3
 Examples
 --------
 
-<img src='https://raw.github.com/yarekt/mSVG/master/examples/bar.svg' />
-<img src='https://raw.github.com/yarekt/mSVG/master/examples/pie.svg' />
+<img src='https://rawgithub.com/yarekt/mSVG/master/examples/pie.svg' />
+<img src='https://rawgithub.com/yarekt/mSVG/master/examples/bar.svg' />
