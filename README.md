@@ -6,10 +6,6 @@ install
 -------
 Copy to your libraries directory
 
-Requirements
-------------
-PHP Short Open tags needs to be disabled, as XML declaration starts with <? ?>
-
 License
 -------
 This project is licensed under GNU Lesser General Public License v3
@@ -17,5 +13,5 @@ This project is licensed under GNU Lesser General Public License v3
 Examples
 --------
 
-<img src='http://grittytech.co.uk/projects/mSVG/examples/pie.php' />
-<img src='http://grittytech.co.uk/projects/mSVG/examples/bar.php' />
+<img src='https://raw.github.com/yarekt/mSVG/master/examples/bar.svg' />
+<img src='https://raw.github.com/yarekt/mSVG/master/examples/pie.svg' />

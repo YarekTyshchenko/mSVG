@@ -1,0 +1,126 @@
+<?xml version="1.0" standalone="no"?><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="670" height="200">
+    <g>
+                    <path stroke="white"
+            fill="rgb(102,180,19)" 
+            d="M 268,100 
+            l 74.231122,-29.828518 
+            a80,80 0 0,0 
+            -74.231122,-50.171482 z" />
+                <polyline stroke="gray"
+            fill="none"
+            points="312.23800810487,34.547737709736 315.5,29.5 353,29.5 363,29.5 368,29.5" />
+        <text font-size="12"
+            text-anchor="start"
+            style="font-family: Arial;"
+            x='373' 
+            y='32.5'>Hyperspace (19%)</text>
+                    <path stroke="white"
+            fill="rgb(220,179,204)" 
+            d="M 268,100 
+            l -44.797983,66.280772 
+            a80,80 0 0,0 
+            119.029105,-96.109290 z" />
+                <polyline stroke="gray"
+            fill="none"
+            points="317.62937978636,161.46482459116 321.5,166.5 353,166.5 363,166.5 368,166.5" />
+        <text font-size="12"
+            text-anchor="start"
+            style="font-family: Arial;"
+            x='373' 
+            y='169.5'>Fire Control (40%)</text>
+                    <path stroke="white"
+            fill="rgb(142,39,243)" 
+            d="M 268,100 
+            l -79.352035,10.161426 
+            a80,80 0 0,0 
+            34.554052,56.119346 z" />
+                <polyline stroke="gray"
+            fill="none"
+            points="200.72919811907,141.42027540102 195.5,144.5 183,144.5 173,144.5 168,144.5" />
+        <text font-size="12"
+            text-anchor="end"
+            style="font-family: Arial;"
+            x='163' 
+            y='147.5'>Gravity Well (14%)</text>
+                    <path stroke="white"
+            fill="rgb(54,57,212)" 
+            d="M 268,100 
+            l -39.015596,-69.841129 
+            a80,80 0 0,0 
+            -40.336439,80.002555 z" />
+                <polyline stroke="gray"
+            fill="none"
+            points="197.45885720618,64.433904159404 192.5,61.5 183,61.5 173,61.5 168,61.5" />
+        <text font-size="12"
+            text-anchor="end"
+            style="font-family: Arial;"
+            x='163' 
+            y='64.5'>RU Drop-off (19%)</text>
+                    <path stroke="white"
+            fill="rgb(61,199,111)" 
+            d="M 268,100 
+            l -26.651184,-75.430196 
+            a80,80 0 0,0 
+            -12.364412,5.589067 z" />
+                <polyline stroke="gray"
+            fill="none"
+            points="235.45980138872,28.012949259337 232.5,22.5 183,22.5 173,26.5 168,26.5" />
+        <text font-size="12"
+            text-anchor="end"
+            style="font-family: Arial;"
+            x='163' 
+            y='29.5'>Research Module (3%)</text>
+                    <path stroke="white"
+            fill="rgb(58,236,70)" 
+            d="M 268,100 
+            l 0.000000,-80.000000 
+            a80,80 0 0,0 
+            -26.651184,4.569804 z" />
+                <polyline stroke="gray"
+            fill="none"
+            points="254.64893519457,22.136343082531 253.5,16.5 183,16.5 173,13.5 168,13.5" />
+        <text font-size="12"
+            text-anchor="end"
+            style="font-family: Arial;"
+            x='163' 
+            y='16.5'>Platform Module (5%)</text>
+        </g>
+    <g>
+                            <rect x="520" y="15" width="15" height="15" stroke="none" fill="rgb(102,180,19)" />
+            <text
+                font-size="12"
+                style="font-family: Arial;"
+                x="550"
+                y="26">Hyperspace (7)</text>
+                            <rect x="520" y="35" width="15" height="15" stroke="none" fill="rgb(220,179,204)" />
+            <text
+                font-size="12"
+                style="font-family: Arial;"
+                x="550"
+                y="46">Fire Control (15)</text>
+                            <rect x="520" y="55" width="15" height="15" stroke="none" fill="rgb(142,39,243)" />
+            <text
+                font-size="12"
+                style="font-family: Arial;"
+                x="550"
+                y="66">Gravity Well (5)</text>
+                            <rect x="520" y="75" width="15" height="15" stroke="none" fill="rgb(54,57,212)" />
+            <text
+                font-size="12"
+                style="font-family: Arial;"
+                x="550"
+                y="86">RU Drop-off (7)</text>
+                            <rect x="520" y="95" width="15" height="15" stroke="none" fill="rgb(61,199,111)" />
+            <text
+                font-size="12"
+                style="font-family: Arial;"
+                x="550"
+                y="106">Research Module (1)</text>
+                            <rect x="520" y="115" width="15" height="15" stroke="none" fill="rgb(58,236,70)" />
+            <text
+                font-size="12"
+                style="font-family: Arial;"
+                x="550"
+                y="126">Platform Module (2)</text>
+                    </g>
+</svg>
